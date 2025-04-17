@@ -3545,3 +3545,16 @@
 4/17/2025 | 12:24:03 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:24:03 PM | INFO | Last mining time: 4/16/2025, 12:24:24 PM
 4/17/2025 | 12:24:03 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:24:24 PM
+4/17/2025 | 4:15:32 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:15:32 PM | INFO | Start process for wallet 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+4/17/2025 | 4:15:33 PM | INFO | Trying To Login for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+4/17/2025 | 4:15:34 PM | INFO | Login successful... 
+4/17/2025 | 4:15:34 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:15:35 PM | INFO | User ID: 28200583 | Twitter: @neylayunda | Total Points: 1344000 
+4/17/2025 | 4:15:35 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:15:48 PM | INFO | Last mining time: 4/16/2025, 12:24:24 PM
+4/17/2025 | 4:15:48 PM | INFO | Trying to start Mining for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+4/17/2025 | 4:16:06 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/17/2025 | 4:16:06 PM | INFO | Trying to activate mining on-chain for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+4/17/2025 | 4:16:44 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"500 Internal Server Error"},"shortMessage":"server response 500 Internal Server Error"}
+4/17/2025 | 4:16:44 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 

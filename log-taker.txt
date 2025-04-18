@@ -3583,3 +3583,12 @@
 4/18/2025 | 12:58:55 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 4/18/2025 | 12:58:55 AM | INFO | Trying to activate mining on-chain for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
 4/18/2025 | 12:59:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd0ed280ce631b12d9f708193b91071e0468657668b0289c1957e4d817ef79e0c 
+4/18/2025 | 4:14:47 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 4:14:47 AM | INFO | Start process for wallet 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+4/18/2025 | 4:14:48 AM | INFO | Trying To Login for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+4/18/2025 | 4:14:49 AM | INFO | Login successful... 
+4/18/2025 | 4:14:49 AM | INFO | Trying to check user info... 
+4/18/2025 | 4:14:49 AM | INFO | User ID: 28200583 | Twitter: @neylayunda | Total Points: 1368000 
+4/18/2025 | 4:14:49 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 4:14:54 AM | INFO | Last mining time: 4/18/2025, 12:59:09 AM
+4/18/2025 | 4:14:54 AM | WARN | Mining already started, next mining time is: 4/19/2025, 12:59:09 AM

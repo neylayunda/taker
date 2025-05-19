@@ -5346,3 +5346,15 @@
 5/19/2025 | 1:05:33 AM | INFO | Trying to check user miner status... 
 5/19/2025 | 1:05:52 AM | INFO | Last mining time: 5/18/2025, 1:06:54 AM
 5/19/2025 | 1:05:52 AM | WARN | Mining already started, next mining time is: 5/19/2025, 1:06:54 AM
+5/19/2025 | 4:21:15 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 4:21:15 AM | INFO | Start process for wallet 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+5/19/2025 | 4:21:16 AM | INFO | Trying To Login for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+5/19/2025 | 4:21:17 AM | INFO | Login successful... 
+5/19/2025 | 4:21:17 AM | INFO | Trying to check user info... 
+5/19/2025 | 4:21:18 AM | INFO | User ID: 28200583 | Twitter: @neylayunda | Total Points: 2016000 
+5/19/2025 | 4:21:18 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 4:21:18 AM | INFO | Last mining time: 5/18/2025, 1:06:54 AM
+5/19/2025 | 4:21:18 AM | INFO | Trying to start Mining for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+5/19/2025 | 4:21:19 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 4:21:19 AM | INFO | Trying to activate mining on-chain for wallet: 0x2AFD2f1947b657a7993c16bDa83c878a918E672F 
+5/19/2025 | 4:21:31 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3675290e5e5190b8d6cc1a41cb5c26fc3b3a905b359768c762626f4b06ad6c2c 
